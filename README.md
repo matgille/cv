@@ -1,8 +1,6 @@
 # Curriculi Vitae Automator
 Ce dépôt est voué à contenir les fichiers du compilateur de CV automatique à partir de XML. Schéma à venir !
 
-## Fonctionnement: 
-Modifier le document cv.xml à votre convenance, puis ``make``, et les fichiers seront automatiquement compilés. Vous devez avoir pdflatex installé.
 ## Licences: 
 
 Sauf ce qui est mentionné ci-dessous, ce dépôt est sous licence CC-BY-NC 4.0
