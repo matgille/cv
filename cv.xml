@@ -1,0 +1,594 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+    <meta>
+        <nom>Gille Levenson</nom>
+        <prenom>Matthias</prenom>
+        <naissance>22/05/1993</naissance>
+        <courriel>matthias.gille-levenson@ens-lyon.fr</courriel>
+        <ident type="orcid">0000-0001-9488-5986</ident>
+    </meta>
+    <main>
+        <cursus>
+            <annee n="2022-2023">
+                <entree>
+                    <francais>Cinquième année de doctorat.</francais>
+                </entree>
+                <entree>
+                    <francais>Attaché Temporaire d'Enseignement et de Recherche (ATER) dans la section
+                        d'espagnol de l'ENS de Lyon.</francais>
+                </entree>
+            </annee>
+            <annee n="2020-2022">
+                <entree>
+                    <francais>Troisième et quatrième années de doctorat.</francais>
+                </entree>
+                <entree>
+                    <francais>Membre scientifique de la Casa de Velázquez.</francais>
+                </entree>
+            </annee>
+            <annee n="2019-2020">
+                <entree>
+                    <francais>Seconde année de doctorat.</francais>
+                </entree>
+                <entree>
+                    <francais>Assistant de recherche (<en>Visiting Assistant in Research</en>), Yale
+                        University, <en>Graduate Department of Spanish and Portuguese</en>, auprès de
+                        Jesús R. <nom>Velasco</nom>, septembre -- début décembre. </francais>
+                </entree>
+            </annee>
+            <annee n="2018-2019">
+                <entree>
+                    <francais>Première année de doctorat sous la direction de <pers idref="055838413"
+                            >Carlos <nom>Heusch</nom></pers>. Laboratoire de rattachement: <lien
+                            href="http://ciham.ish-lyon.cnrs.fr/">CIHAM</lien> (UMR 6848). Co-direction
+                        avec <pers orcid="0000-0002-3848-9230">Jesús <nom>
+                        Velasco</nom></pers><!-- et
+                            <pers idref="178995819">Marjorie <nom>Burghart</nom></pers>-->.</francais>
+                    <anglais>First year of Ph.D Thesis, under the supervision of <pers idref="055838413"
+                            >Carlos <nom>Heusch</nom></pers>, <pers orcid="0000-0002-3848-9230">Jesús
+                                <nom>Rodríguez Velasco</nom></pers> and <pers idref="178995819">Marjorie
+                                <nom>Burghart</nom></pers>. Title: <titre>La version B du
+                                    <titre><titre>Regimiento de los prínçipes</titre> glosado</titre>:
+                            étude et édition de III,3</titre></anglais>
+                </entree>
+                <entree>
+                    <francais>Suivi de l'atelier DTS (<en>Distributed Text Services</en>) <lien
+                            href="https://distributed-text-services.github.io/workshops/events/2019-hamburg/"
+                                ><cit>Texts and API</cit></lien> à Hambourg, du 15 au 16
+                        juillet.</francais>
+                    <anglais> DTS (Distributed Text Services) workshop <lien
+                            href="https://distributed-text-services.github.io/workshops/events/2019-hamburg/"
+                                ><cit>Texts and API</cit></lien>, Hambourg, july 15-16.</anglais>
+                </entree>
+                <entree>
+                    <francais>Suivi de l'école d'été de l'IRHT <lien
+                            href="https://www.irht.cnrs.fr/?q=fr/agenda/le-livre-medieval-au-regard-des-methodes-quantitatives-0"
+                                ><cit>Le livre médiéval au regard des méthodes quantitatives</cit></lien>
+                        du 25 au 28 juin.</francais>
+                    <anglais>IRHT Summer School <lien
+                            href="https://www.irht.cnrs.fr/?q=fr/agenda/le-livre-medieval-au-regard-des-methodes-quantitatives-0"
+                                ><cit>Le livre médiéval au regard des méthodes
+                        quantitatives</cit></lien>, june 25-28.</anglais>
+                </entree>
+            </annee>
+
+
+            <annee n="2017-2018">
+                <entree>
+                    <francais>Préparation de la thèse (4ème année à l'ÉNS de Lyon). </francais>
+                    <anglais>Preparation for the PhD application process at ENS de Lyon.</anglais>
+                </entree>
+                <entree>
+                    <francais>Suivi d'un atelier en édition numérique à Cambridge (Royaume-Uni) en avril
+                        2018, dans la continuité du DEMM (<en>Digital Encoding of Medieval
+                            Manuscripts</en>).</francais>
+                    <anglais>Workshop on Digital Edition, Cambridge (UK), april 2018.</anglais>
+                </entree>
+                <entree>
+                    <francais>Participation à la session 2018 de la formation EDEEN (École d'été en
+                        humanités numériques) à Grenoble, organisée par l'Université Grenoble-Alpes et la
+                        MSH Alpes (Grenoble, 28 mai-2 juin).</francais>
+                    <anglais>2018 EDEEN (<fr>École d'été en humanités numériques</fr>) workshop, Grenoble
+                        University, organized by <pers>Elena <nom>Pierazzo</nom></pers>. 28 may-2 june
+                        2018.</anglais>
+                </entree>
+                <entree>
+                    <francais>Participation à l'atelier 2018 du consortium CAHIER (Montpellier, 26-29
+                        juin 2018).</francais>
+                    <anglais>2018 CAHIER consortium (<cit><fr>Corpus d’auteurs pour les humanités :
+                                informatisation, édition, recherche</fr></cit>) workshop, Montpellier,
+                        26-29 june 2018.</anglais>
+                </entree>
+            </annee>
+
+
+            <annee n="2016-2017">
+                <entree>
+                    <francais>Préparation et obtention du concours de l'Agrégation d'Espagnol. </francais>
+                    <anglais>Qualified as a teacher after preparing the <fr>Agrégation</fr> in Spanish
+                        (3rd/75).</anglais>
+                </entree>
+            </annee>
+
+
+            <annee n="2015-2016">
+                <entree>
+                    <francais> Master II d'études hispanophones du département d'études lusophones et
+                        hispanophones de l'ÉNS de Lyon. Suivi des cours du Master <titre>Patrimonio
+                            Textual y humanidades digitales</titre> de l’Université de Salamanque dans le
+                        cadre du programme Erasmus. Mémoire préparé sous la direction de <pers
+                            idref="055838413">Carlos <nom>Heusch</nom></pers> et de <pers
+                            orcid="0000-0002-2676-0388">Francisco <nom>Bautista</nom></pers>: <titre>La
+                            version B du <titre>Regimiento de los príncipes glosado</titre></titre>. Note
+                        obtenue: 19. </francais>
+                    <anglais>Master II in Spanish, ÉNS de Lyon. Graduate humanities classes in the
+                        University of Salamanca, as an Erasmus Student. Research Dissertation on
+                            <titre>Le <titre><titre>Regimiento de los príncipes</titre> glosado</titre>.
+                            Étude et édition critique</titre>, supervised by <pers
+                            orcid="0000-0002-2676-0388">Francisco <nom>Bautista</nom></pers> and <pers
+                            idref="055838413">Carlos <nom>Heusch</nom></pers>.</anglais>
+                </entree>
+                <entree>
+                    <francais>Suivi de la formation <en>Digital Encoding of Medieval Manuscripts</en>
+                        (DEMM) financée par l’Union Européenne. Trois semaines de stage à Vienne (Abbaye
+                        de Klosterneuburg), Lyon (ÉNS de Lyon), Londres (Queen Mary University). </francais>
+                    <anglais>Digital Encoding of Medieval Manuscripts (DEMM) workshop, three weeks in
+                        three european cities: Wien (Klosterneuburg abbey), Lyon (ÉNS de Lyon) and London
+                        (Queen Mary University).</anglais>
+                </entree>
+            </annee>
+
+
+            <annee n="2014-2015">
+                <entree>
+                    <francais>Master I d'études hispanophones au sein du département d'études lusophones
+                        et hispanophones de l'ÉNS de Lyon. Spécialisation en philologie castillane et en
+                        étude de textes du bas-Moyen Âge. Mémoire préparé sous la direction de Carlos
+                        Heusch: <titre>Edición crítica de dos textos de Pedro de Chinchilla</titre>. Note
+                        obtenue: 18.</francais>
+                    <anglais>Master I in Spanish, ÉNS de Lyon. Specialization in medieval philology and
+                        ecdotics. Dissertation: <titre>Edición crítica de dos textos de Pedro de
+                            Chinchilla</titre>, supervised by <pers idref="055838413">Carlos
+                                <nom>Heusch</nom></pers>.</anglais>
+                </entree>
+                <entree>
+                    <francais>Stage d’ecdotique des Sources chrétiennes (Lyon, février 2015).</francais>
+                    <anglais>Workshop on Ecdotics, Sources chrétiennes, Lyon, february 2015.</anglais>
+                </entree>
+                <!--<entree>
+                    <francais>Cours d’ouverture du Master <titre>Patrimonio textual y humanidades
+                        digitales</titre>, (Université de Salamanque, juin 2015).</francais>
+                    <anglais/>
+                </entree>-->
+
+            </annee>
+
+
+            <annee n="2013-2014">
+                <entree>
+                    <francais>Licence 3, Université Lumière Lyon 2-ÉNS de Lyon. </francais>
+                    <anglais>Licence in Spanish, Université Lumière Lyon-II, ÉNS de Lyon.</anglais>
+                </entree>
+                <entree>
+                    <francais>Séminaire d’édition de textes de <pers>Gisèle <nom>Besson</nom></pers>, ÉNS
+                        Lyon.</francais>
+                    <anglais>Seminar in ecdotics, <pers>Gisèle <nom>Besson</nom></pers>, ÉNS
+                        Lyon.</anglais>
+                </entree>
+                <!--<entree>
+                    <francais>Stage d'introduction au Grec ancien (ILOAM, Université de Lausanne,
+                        été 2014).</francais>
+                    <anglais>Introductory course to Ancient Greek, Lausanne University, july
+                        2014.</anglais>
+                </entree>-->
+                <!--<entree>
+                    <francais>Introduction à la linguistique des langues sémitiques (cours de
+                        Georges Bohas, Lausanne, dans le cadre du stage ILOAM).</francais>
+                    <anglais>Introduction to linguistics of the semitic languages.</anglais>
+                </entree>-->
+            </annee>
+            <annee n="2011-2013">
+                <entree>
+                    <francais>Classe préparatoire Littéraire, Lycée Joffre (Montpellier). Préparation aux
+                        concours des ÉNS (khâgne classique). Admis à l'ÉNS de Lyon.</francais>
+                    <anglais>Classe Préparatoire littéraire, Montpellier. Success at the entrance exam
+                        for the École Normale Supérieure (ÉNS) de Lyon.</anglais>
+                </entree>
+            </annee>
+        </cursus>
+
+        <enseignement>
+            <annee n="2022-2023">
+                <entree>
+                    <francais>Janvier: participation à l'animation de la formation EnExDi 2023; séances
+                        sur le HTR et la transcriptions de sources au format XML-TEI. Une
+                        semaine.</francais>
+                </entree>
+                <entree>
+                    <francais>Octobre: participation au séminaire du master HN de l'ENSSIB/Lyon 3/ENS de
+                        Marianne Reboul; une séance en collaboration avec Ariane Pinche sur la
+                        transcription automatisée. 3 heures.</francais>
+                </entree>
+                <entree>
+                    <francais>Cours d'intoduction aux humanités numériques (L3-M1): De l'image au texte
+                        annoté. Le cours a consisté en une introduction aux différentes méthodes de
+                        traitement et d'étude des sources textuelles anciennes, en utilisant une même
+                        source littéraire comme fil conducteur, la <titre>Breve relación de la
+                            destruyción de las Indias</titre> (1552) de Bartolomé de las Casas: courte
+                        introduction à la bibliographie matérielle, OCR et travail sur l'apprentissage
+                        supervisé, segmentation, annotation lexico-grammaticale. Un semestre.</francais>
+                </entree>
+            </annee>
+            <annee n="2021-2022">
+                <entree>
+                    <francais>Mai: animation d'un atelier doctoral à l'Universidad Complutense de Madrid
+                        (école <cit><en>Herramientas digitales</en></cit>) sur le HTR et eScriptorium
+                        (quatre heures).</francais>
+                </entree>
+                <entree>
+                    <francais>Animateur principal de la session 2022 du MOOC <en>Digital Scholarly
+                            Editions: Manuscripts, Texts and TEI Encoding</en> organisé par Marjorie
+                        Burghart dans le cadre du Master Mondes Médiévaux de l'Université Lyon II.
+                        Mars-avril 2022 (six séances).</francais>
+                </entree>
+                <entree>
+                    <francais>Co-organisation et co-animation de la formation à la transcription
+                        automatisée de sources manuscrites avec le logiciel <titre>eScriptorium</titre>,
+                        avec María Díez Yáñez et Irene Salvo García, organisée à la Casa de Velázquez en
+                        septembre 2021 (vingt participant.es présent.es, trente en distanciel), avec la
+                        collaboration et la participation de Peter Stokes, Benajmin Kiessling, Leonor
+                        Zozaya-Montes et de Belén Almeida (deux jours). <lien
+                            href="https://www.casadevelazquez.org/news/formation-seminaire-sur-la-transcription-automatisee-de-sources-manuscrites-avec-escriptorium/"
+                            >Lien vers la page de l'événement</lien>.</francais>
+                </entree>
+            </annee>
+            <annee n="2020-2021">
+                <entree>
+                    <francais>Coorganisation et animation de la formation (en ligne) ODD, avec Emmanuelle
+                        Morlock, Sarah Orsini et Ariane Pinche (trois demi-journées). <lien
+                            href="https://tei-odd-2021.sciencesconf.org/">Lien vers la page de
+                            l'événement</lien></francais>
+                </entree>
+                <entree>
+                    <francais>Atelier <titre>Lemmatiser des textes et corriger l'annotation grâce a
+                            l'apprentissage profond avec Pyrrha</titre> coanimé avec Thibault Clérice,
+                        Lucence Ing, Ariane Pinche, Simon Gabay et Jean-Baptiste Camps lors du congrès
+                        Humanistica 2021 (quatre heures). <lien
+                            href="https://humanistica2021.sciencesconf.org/341021">Lien vers la page de
+                            l'atelier</lien> et <lien
+                            href="https://hal.archives-ouvertes.fr/hal-03224112/file/abstract.pdf"
+                            >Abstract</lien>.</francais>
+                </entree>
+                <entree>
+                    <francais>Participation à l'animation de la session 2021 du MOOC <en>Digital
+                            Scholarly Editions: Manuscripts, Texts and TEI Encoding</en> organisé par
+                        Marjorie Burghart. Mars-avril 2021 (six séances).</francais>
+                </entree>
+                <entree>
+                    <francais>Animation d'une séance d'introduction à l'analyse grammaticale et à
+                        l'utilisation de l'outil Pyrrha, dans le cadre du master HN de
+                        l'ENSSIB.</francais>
+                </entree>
+            </annee>
+            <annee n="2019-2020">
+                <entree>
+                    <francais>Participation à l'animation de la session 2020 francophone du MOOC
+                            <en>Digital Scholarly Editions: Manuscripts, Texts and TEI Encoding</en>
+                        organisé par Marjorie Burghart. Mars-avril 2020 (six séances)</francais>
+                </entree>
+                <entree>
+                    <francais>Cours d'introduction à l'histoire culturelle de la Castille sous les
+                        Trastamare. Thème: le pouvoir et sa légitimation (demi-semestre).</francais>
+                </entree>
+                <entree>
+                    <francais>Cours d'introduction aux humanités numériques: l'analyse grammaticale du
+                        castillan médiéval (demi-semestre).</francais>
+                </entree>
+                <entree>
+                    <francais>Cours de méthodologie de la recherche. Intitulé du cours: <title>La
+                            publication scientifique: enjeux économiques, juridiques, éditoriaux et
+                            techniques</title>. Le cours a alterné entre présentation de la publication
+                        scientifique sous ses différents prismes et initiation à la production de
+                        documents scientifiques avec le logiciel/langage de composition LaTeX (semestre
+                        plein).</francais>
+                </entree>
+            </annee>
+            <annee n="2018-2019">
+                <entree>
+                    <francais>Organisation et animation de la formation <lien
+                            href="https://cosme.hypotheses.org/1117">XSLT COSME 2019</lien> en
+                        collaboration avec trois autres doctorant.es/docteurs: Simon Gabay, Université de
+                        Lausanne, Ariane Pinche, École nationale des Chartes, Jean-Paul Rehr, Université
+                        Lyon II (deux jours). <lien href="https://github.com/gabays/Cours\_COSME\_2019"
+                            >Lien vers le dépôt de la formation</lien>.</francais>
+                    <anglais>Organization with three other young researchers of a training course focused
+                        on XSLT (<lien href="https://cosme.hypotheses.org/1117">COSME XSLT Course
+                            2019</lien>). Link to git repository: <lien
+                            href="https://github.com/gabays/Cours\_COSME\_2019">here</lien>.</anglais>
+                </entree>c <entree>
+                    <francais>Cours de version classique, niveau Master (un semestre).</francais>
+                    <anglais>Graduate TD (tutorial) at ÉNS de Lyon, <cit><fr>Version classique</fr></cit>
+                        (translation of texts of the spanish <esp>Siglo de Oro</esp>)</anglais>
+                </entree>
+                <entree>
+                    <francais>Cours de méthodologie de la recherche. Intitulé du cours: <title>La
+                            publication scientifique: enjeux économiques, juridiques, éditoriaux et
+                            techniques</title>. Le cours a alterné entre présentation de la publication
+                        scientifique sous ses différents prismes et initiation à la production de
+                        documents scientifiques avec le logiciel/langage de composition LaTeX (un
+                        semestre).</francais>
+                    <anglais>Graduate and undergraduate TD, <cit><fr>Méthodologie de la
+                            recherche</fr></cit>. I focused my course on the economic, juridic, technical
+                        issues of the <cit>scientific publication</cit>, on one hand; on the other hand I
+                        did an introduction to LaTeX for researchers.</anglais>
+                </entree>
+            </annee>
+            <annee n="2017-2018">
+                <entree>
+                    <francais>Poste de khôlleur dans deux lycées lyonnais (La Martinière-Duchère et
+                        Juliette Récamier).</francais>
+                    <anglais>Preparation sessions for oral exams in Spanish in CPGE (<fr>Classe
+                            Préparatoire aux Grandes Écoles</fr>) at Lycée La Martinière Duchère and
+                        Lycée Récamier, Lyon.</anglais>
+                </entree>
+            </annee>
+        </enseignement>
+
+        <publications>
+            <ConferencePapers>
+                <paper>
+                    <francais>Simon Gabay, Thibault Clérice, Jean-Baptiste Camps, Jean-Baptiste Tanguy,
+                        Matthias Gille-Levenson. <title><en>Standardizing linguistic data: method and
+                                tools for annotating (pre-orthographic) French.</en></title>, Proceedings
+                        of the 2nd International Digital Tools and Uses Congress (DTUC '20), Oct 2020,
+                        Hammamet, Tunisia, hal-03018381. DOI:<lien
+                            href="https://dx.doi.org/10.1145/3423603.3423996"
+                            >10.1145/3423603.3423996</lien></francais>
+                </paper>
+            </ConferencePapers>
+            <articles>
+                <paper>
+                    <francais>
+                        <titre type="article">Educación del príncipe, nobleza y caballería en el <titre
+                                type="livre">De regimine principum</titre> castellano (segundo y tercer
+                            libro)</titre>, <titre type="livre">Librosdelacorte</titre> 22, 2021, pp.
+                        285-308. DOI:<lien href="https://doi.org/10.15366/ldc2021.13.22.010"
+                            >10.15366/ldc2021.13.22</lien>
+                    </francais>
+                </paper>
+                <paper>
+                    <francais>
+                        <titre type="article">L'évolution du Regimiento de los prínçipes (1345-1494),
+                            conditionnée par le pouvoir politique ?</titre> in <titre type="livre"
+                            >Écritures du Pouvoir</titre>, 2, éd. Véronique Lamazou-Duplan, Ausonius
+                        éditions, 2019, Scripta Medievalia, pp. 137-148. <lien
+                            href="https://hal.archives-ouvertes.fr/hal-02369116">HAL.</lien>
+                    </francais>
+                </paper>
+            </articles>
+            <datasets>
+                <dataset type="dataset">
+                    <francais><titre> Jeu de données - segmentation du castillan médiéval (15e
+                            siècle)</titre> (non évalué), mai 2022. <lien
+                            href="https://gitlab.huma-num.fr/mgillelevenson/dataset_segmentation_castillan_medieval"
+                            >Lien vers le dépôt gitlab</lien>.</francais>
+                </dataset>
+                <dataset type="dataset">
+                    <francais><titre>Modèle de reconnaissance optique de caractères - Kraken - Incunables
+                            sévillans 1494-1500</titre> (non évalué). 05 février 2020. <lien
+                            href="https://zenodo.org/record/5562596"><img
+                                lien="img/doi_zenodo_inc_901.png" echelle="0.73"/></lien></francais>
+                    <anglais><titre>Modèle de reconnaissance optique de caractères - Kraken - Incunables
+                            sévillans 1494-1500</titre> (dataset). February 5, 2020. <lien
+                            href="https://zenodo.org/record/5562596"><img
+                                lien="img/doi_zenodo_inc_901.png" echelle="0.75"/></lien></anglais>
+                </dataset>
+            </datasets>
+            <CongressCommunications>
+                <paper>
+                    <francais><titre><en>TEICollator: a TEI to TEI workflow</en></titre> (<en>long
+                            paper</en>), TEI2022: Text as data, Newcastle (Angleterre) 12-16 septembre
+                        2022.</francais>
+                </paper>
+                <paper>
+                    <francais><titre>TEICollator: une chaîne de traitement ecdotique
+                            semi-automatisée</titre>, 30e Congrès International de Linguistique et de
+                        Philologie Romane, Université de La Lagune, Canaries (Espagne), 4-9 juillet 2022.
+                            <lien href="https://hal.archives-ouvertes.fr/hal-03715059">Dépôt
+                        HAL</lien>.</francais>
+                </paper>
+                <paper>
+                    <francais>Matthias Gille Levenson, Gwenaëlle Patat (ordre alph.). <titre>Programming
+                            Historian en français : Faire communauté pour le partage de ressources
+                            éducatives libres sur les méthodes numériques en sciences humaines et
+                            sociales francophones</titre>, Colloque Humanistica 2022, Mai 2022, Montréal,
+                        Canada. <lien href="https://hal.archives-ouvertes.fr/hal-03672420"
+                            >hal-03672420</lien></francais>
+                </paper>
+                <paper>
+                    <francais>Matthias Gille Levenson, Olivier Brisville-Fertin, María Díez Yáñez, Simon
+                        Gabay, <title><es>Construcción de un corpus de evaluación de la anotación
+                                léxico-gramatical del castellano medieval (siglos XIII-XV)</es></title>,
+                        HDH2021: scire vias, Saint Jacques de Compostelle, Espagne, oct. 2021. <lien
+                            href="https://gitlab.huma-num.fr/mgillelevenson/paper_hdh_lematizacion">Lien
+                            vers le dépôt git</lien>.</francais>
+                </paper>
+                <paper>
+                    <francais>Simon Gabay, Lucie Rondeau Du Noyer, Matthias Gille Levenson, Ljudmila
+                        Petkovic et Alexandre Bartz, <titre><en>Quantifying the Unknown: How many
+                                manuscripts of the marquise de Sévigné still exist?</en></titre>, DH2020,
+                        Ottawa, Canada. <lien
+                            href="https://hal.archives-ouvertes.fr/hal-02898929/document"
+                                ><en>Abstract</en></lien> et <lien
+                            href="http://dx.doi.org/10.17613/2pwa-0f46">diapositives</lien>.</francais>
+                </paper>
+                <paper>
+                    <francais>Paul Bertrand, Ariane Pinche, Matthias Gille Levenson et Margot Ferrand,
+                            <titre type="poster"><en>COSME² - Complexities: 30 Years Of Research Of
+                                Medievalists DH Concerning A Thousand Years Of Medieval
+                            Sources</en></titre> (poster). Congrès <cit><en>Digital Humanities
+                            2019</en></cit> (DH2019), du 9 au 12 juillet 2019, Utrecht, Pays-Bas. <lien
+                            href="https://zenodo.org/record/3275597"><img lien="img/zenodo3275597.png"
+                                echelle="0.55"/></lien>
+                    </francais>
+                </paper>
+            </CongressCommunications>
+            <SmallCommunications>
+                <paper>
+                    <francais>
+                        <titre>La transcription automatisée, un changement de paradigme
+                            ecdotique?</titre>, colloque <titre>Trilobe II</titre>, 29-30 septembre 2022,
+                        ENS Lyon.</francais>
+                </paper>
+                <paper>
+                    <francais>Matthias Gille Levenson, Sofia Papastamkou et Célian Ringwald (ordre
+                        alph.). <titre>Programming Historian : un lieu de collaborations et
+                            d’interactions multiples</titre>, Colloque DHNord 2022, juin 2022, en
+                        ligne.</francais>
+                </paper>
+                <paper>
+                    <francais><titre>Réception du roman, fiction et valeur du vrai dans trois traités de
+                            littérature politique des <siecle>xiv</siecle> et
+                                <siecle>xv</siecle><sup>è</sup> siècles en castillan</titre>, Journée
+                        d'études <cit>Vérité et mensonge</cit>, ENS de Lyon, 6 mai 2021.</francais>
+                </paper>
+                <paper>
+                    <francais><titre>Describir y prescribir el liderazgo en la Castilla
+                            bajomedieval</titre>, Séminaire du Madrid Institute of Advanced Studies
+                        (MIAS), co-animé avec Edward Holt, 22 mars 2021.</francais>
+                </paper>
+                <paper>
+                    <francais>
+                        <titre>``E mayormente los reyes''. Educación del hijo y educación del príncipe en
+                            el segundo libro del <lat>De regimine principum</lat> castellano</titre>,
+                            <sc>I Seminario de Corte y Literatura</sc>, Instituto Universitario La Corte
+                        en España, UAM, 26-27 novembre 2021.</francais>
+                </paper>
+                <paper>
+                    <francais>
+                        <titre><en>Editing a 15th century political treatise using the computer: a back
+                                and forth between meaning and information</en></titre>, <en>Iberian
+                            Connections seminar</en>, Yale University, 12 novembre 2019. <lien
+                            href="https://iberian-connections.yale.edu/articles/editing-a-xvth-century-political-treatise-using-the-computer/"
+                            >Lien</lien>.</francais>
+                </paper>
+                <paper>
+                    <francais>
+                        <titre type="communication">Du concept au récit: théorie politique et
+                                <es>enxiemplo</es> dans le <sp>Regimiento de los prínçipes</sp> (III,
+                            3)</titre>. Colloque <cit>Theorica 7: Politia</cit>, ÉNS de Lyon, Lyon, 6
+                        juin 2019. </francais>
+                    <anglais><titre>Du concept au récit: théorie politique et <es>enxiemplo</es> dans le
+                                <sp>Regimiento de los prínçipes</sp> (III, 3)</titre>. Theorica 7:
+                        Politia seminar, Lyon, 6 june 2019.</anglais>
+                </paper>
+                <paper>
+                    <francais><titre>La variance et ses enjeux dans l'édition numérique du <sp>Regimiento
+                                de los príncipes</sp></titre>. Journée d'étude Humanités Numériques,
+                        Agorantic-Ciham, <lieu>Avignon</lieu>, 27 mai 2019.</francais>
+                    <anglais><titre>La <cit>variance</cit> et ses enjeux dans l'édition numérique du
+                                <sp>Regimiento de los príncipes</sp></titre>. Digital Humanities meeting,
+                        Agorantic-Ciham, <lieu>Avignon</lieu>, 27 may 2019.</anglais>
+                </paper>
+                <paper>
+                    <francais><titre>Construire l'édition numérique d'une tradition textuelle complexe:
+                            propositions pour le <sp>Regimiento de los prínçipes</sp></titre>. Atelier
+                        IRPALL <cit>La fabrique du texte</cit>, <lieu>Toulouse</lieu>, 22 février
+                        2019.</francais>
+                    <anglais><titre>Construire l'édition numérique d'une tradition textuelle complexe:
+                            propositions pour le <sp>Regimiento de los prínçipes</sp></titre>. IRPALL
+                        workshop <cit>La fabrique du texte</cit>, <lieu>Toulouse</lieu>, 22 february
+                        2019.</anglais>
+                </paper>
+                <paper>
+                    <francais><titre>L'évolution du <sp>Regimiento de los prínçipes</sp> (1345-1494), au
+                            service du pouvoir ?</titre> Séminaire international de formation avancée:
+                            <lien href="https://recherche.univ-pau.fr/fr/accueil/cpim.html">Les cultures
+                            politiques dans la Péninsule ibérique et au Maghreb</lien>,
+                            <lieu>Bielle</lieu>, octobre 2018. </francais>
+                    <anglais><titre>L'évolution du <sp>Regimiento de los prínçipes</sp> (1345-1494), au
+                            service du pouvoir ?</titre> International doctoral seminar: <lien
+                            href="https://recherche.univ-pau.fr/fr/accueil/cpim.html">Les cultures
+                            politiques dans la Péninsule ibérique et au Maghreb</lien>,
+                            <lieu>Bielle</lieu>, october 2018. </anglais>
+                </paper>
+            </SmallCommunications>
+            <logiciels>
+                <entree>
+                    <head>TeiCollator</head>
+                    <francais><lien href="https://github.com/matgille/tei-collator">TeiCollator</lien>
+                        est un outil de collation semi-automatisée TEI to TEI qui s'appuie sur <lien
+                            href="https://pypi.org/project/collatex/">CollateX</lien> pour l'alignement
+                        des témoins.</francais>
+                </entree>
+                <entree>
+                    <head>ClaViTranscr</head>
+                    <francais><lien href="https://github.com/matgille/transcription_virtual_keyboard"
+                            >ClaViTranscr</lien> est un clavier virtuel qui permet d'aider au travail
+                        d'établissement de vérités terrains dans le cadre de l'utilisation de logiciels
+                        de transcription automatisée comme <lien
+                            href="https://gitlab.inria.fr/scripta/escriptorium"
+                        >eScriptorium</lien>.</francais>
+                </entree>
+            </logiciels>
+        </publications>
+
+        <organisations>
+            <annee n="2022">
+                <evenement>
+                    <francais>Organisation d'une séance du Séminaire d'études hispaniques médiévales du
+                        CIHAM (coord. Julie Marquer et Carlos Heusch): <titre>Actualités de la
+                            recherche</titre>, le 13 décembre 2022.</francais>
+                </evenement>
+            </annee>
+        </organisations>
+
+
+        <comitesLecture>
+            <comite annee="2021-">
+                <francais>Membre du comité de rédaction de <lien
+                        href="https://programminghistorian.org/fr/"><en>Programming historian en
+                            français</en></lien> (rédacteur-en-chef adjoint). Une traduction éditée; une
+                    leçon originale en cours d'édition.</francais>
+            </comite>
+        </comitesLecture>
+
+
+
+        <competences>
+            <entree type="langues">
+                <francais>Français, Espagnol: parlé couramment. Anglais : lu, écrit, parlé.</francais>
+                <anglais>Bilingual in French and Spanish. European level C1 in English.</anglais>
+            </entree>
+            <entree type="info">
+                <francais>Maîtrise des méthodes et outils d'édition électronique selon le standard XML
+                    TEI/P5: XML, ODD, XSLT, librairies python-lxml. Compréhension et utilisation du
+                    XQuery; expérience dans la construction de bases de données XML.</francais>
+            </entree>
+            <entree type="info">
+                <francais>Utilisation courante des langages permettant la publication de sources
+                    documentaires et/ou littéraires: LaTeX, css et html. Compréhension du javascript.
+                    Expérience ponctuelle avec le framework de développement web flask.</francais>
+            </entree>
+            <entree type="info">
+                <francais>Utilisation courante du langage orienté objet python et des expressions
+                    régulières.</francais>
+                <anglais>Frequent use of the methods and tools of the digital edition: XML-TEI/P5, and of
+                    the xml, xsl, LaTeX, css, html languages. Regular use of bash scripts and javascript.
+                    Understanding and use of XQuery. Basic experience in python. Experience in
+                    construction of XML databases (with eXist-db technologies).</anglais>
+            </entree>
+            <entree type="info">
+                <francais>Maîtrise du logiciel de contrôle de version git.</francais>
+            </entree>
+            <entree type="outils">
+                <francais>Utilisation courante des logiciels permettant la création de modèles
+                    d'apprentissage supervisé pour le traitement de l'image et du texte ancien
+                    (reconnaissance de caractères et d'écriture manuscrite: Ocropy, Kraken, eScriptorium;
+                    analyse grammaticale: freeling, Pie; segmentation/tokénisation: Boudams). </francais>
+            </entree>
+        </competences>
+
+
+    </main>
+</cv>

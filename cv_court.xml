@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+    <meta>
+        <nom>Gille Levenson</nom>
+        <prenom>Matthias</prenom>
+        <naissance>22/05/1993</naissance>
+        <courriel>matthias.gille-levenson@ens-lyon.fr</courriel>
+        <ident type="orcid">0000-0001-9488-5986</ident>
+    </meta>
+    <main>
+        <cursus>
+            <annee n="2018-...">
+                <entree>
+                    <francais>Thèse à de doctorat l'ENS de Lyon sous la
+                        direction de Carlos <nom>Heusch</nom> (ENS de Lyon) et
+                        Jesús R. <nom>Velasco</nom> (Yale University)</francais>
+                </entree>
+                <entree>
+                    <francais>Membre scientifique de la Casa de Velázquez depuis
+                        septembre 2020.</francais>
+                </entree>
+                <entree>
+                    <francais>Assistant de recherche (<en>Visiting Assistant in
+                        Research</en>), Yale University, <en>Graduate Department
+                        of Spanish and Portuguese</en>, auprès de Jesús
+                        <nom>Velasco</nom>, septembre -- début décembre 2019.
+                    </francais>
+                </entree>
+            </annee>
+            <annee n="2013-2017">
+                <entree>
+                    <francais>Cursus d'espagnol à l'ÉNS de Lyon.</francais>
+                </entree>
+            </annee>
+        </cursus>
+        <enseignement>
+            <annee>
+                <!--<entree>
+                    <francais>Cours de version classique, niveau
+                        Master.</francais>
+                    <anglais>Graduate TD (tutorial) at ÉNS de Lyon,
+                        <cit><fr>Version classique</fr></cit> (translation of
+                        texts of the spanish <esp>Siglo de Oro</esp>)</anglais>
+                </entree>-->
+                <entree>
+                    <francais>Cours de méthodologie de la recherche et
+                        introduction à LaTeX. Intitulé du cours: <title>La
+                        publication scientifique: enjeux économiques,
+                        juridiques, éditoriaux et techniques</title> (2018-2020).</francais>
+                    <anglais>Graduate and undergraduate TD,
+                        <cit><fr>Méthodologie de la recherche</fr></cit>. I
+                        focused my course on the economic, juridic, technical
+                        issues of the <cit>scientific publication</cit>, on one
+                        hand; on the other hand I did an introduction to LaTeX
+                        for researchers.</anglais>
+                </entree>
+                <entree>
+                    <francais>Cours d'humanités numériques (10h): introduction à
+                        l'analyse grammaticale du castillan médiéval (2020).</francais>
+                </entree>
+                <entree>
+                    <francais>Animation de la session 2020 du MOOC <en>Digital
+                        Scholarly Editions: Manuscripts, Texts and TEI
+                        Encoding</en> organisé par Marjorie Burghart.</francais>
+                </entree>
+                <entree>
+                    <francais>Co-organisation et co-animation de la formation <lien
+                        href="https://github.com/gabays/Cours\_COSME\_2019">XSLT
+                        COSME 2019</lien>. </francais>
+                </entree>
+            </annee>
+        </enseignement>
+
+
+        <competences>
+            <entree type="langues">
+                <francais>Français, Espagnol: parlé couramment. Anglais : lu,
+                    écrit, parlé.</francais>
+                <anglais>Bilingual in French and Spanish. European level C1 in
+                    English.</anglais>
+            </entree>
+            <entree type="info">
+                <francais>Maîtrise des méthodes et outils d'édition électronique
+                    selon le standard XML TEI/P5. Utilisation courante des
+                    langages LaTeX, xml, xsl, css et html. Utilisation courante
+                    du langage python et des expressions régulières.
+                    Compréhension et utilisation du javascript et du XQuery.
+                    Expérience dans la construction de bases de données XML.
+                    Expérience avec le framework de développement web
+                    flask.</francais>
+                <anglais>Frequent use of the methods and tools of the digital
+                    edition: XML-TEI/P5, and of the xml, xsl, LaTeX, css, html
+                    languages. Regular use of bash scripts and javascript.
+                    Understanding and use of XQuery. Basic experience in python.
+                    Experience in construction of XML databases (with eXist-db
+                    technologies).</anglais>
+            </entree>
+            <entree type="outils">
+                <francais>Utilisation courante des logiciels permettant la
+                    création de modèles d'apprentissage supervisé (Ocropy,
+                    reconnaissance de caractères; Pie, analyse
+                    grammaticale).</francais>
+                <!--À venir: kraken et pie-->
+            </entree>
+            <entree type="outils">
+                <francais>Maîtrise du logiciel de contrôle de version
+                    git.</francais>
+            </entree>
+        </competences>
+
+
+
+
+
+        <publications>
+            <publication>
+                <entree>
+                    <francais> <titre type="article">L'évolution du <titre
+                        type="livre">Regimiento de los prínçipes</titre>
+                        (1345-1494), conditionnée par le pouvoir politique
+                        ?</titre> in <titre type="livre">Écritures du
+                        Pouvoir</titre>, 2, éd. Véronique
+                        <nom>Lamazou-Duplan</nom>, Ausonius éditions, 2019,
+                        Scripta Medievalia, pp. 137-148. <lien
+                        href="https://hal.archives-ouvertes.fr/hal-02369116"
+                        >HAL.</lien> </francais>
+                </entree>
+                <entree type="dataset">
+                    <francais><titre>Modèle de reconnaissance optique de
+                        caractères - Kraken - Incunables sévillans
+                        1494-1500</titre> (jeu de données). 05 février 2020.
+                        <lien href="https://zenodo.org/record/3643393"><img
+                        lien="img/kraken_doi.png" echelle="0.55"
+                        /></lien></francais>
+                    <anglais><titre>Modèle de reconnaissance optique de
+                        caractères - Kraken - Incunables sévillans
+                        1494-1500</titre> (dataset). February 5, 2020. <lien
+                        href="https://zenodo.org/record/3643393"><img
+                        lien="img/kraken_doi.png" echelle="0.55"
+                        /></lien></anglais>
+                </entree>
+                <!--à décommenter quand tu produiras des données propres (avec
+                training/test/validation)-->
+            </publication>
+            <communications>
+                <entree>
+                    <francais>Simon <nom>Gabay</nom>, Lucie <nom>Rondeau Du
+                        Noyer</nom>, Matthias <nom>Gille Levenson</nom>,
+                        Ljudmila <nom>Petkovic</nom> et Alexandre
+                        <nom>Bartz</nom>, <titre><en>Quantifying the Unknown:
+                        How many manuscripts of the marquise de Sévigné still
+                        exist?</en></titre>, DH2020, Ottawa, Canada. <lien
+                        href="https://hal.archives-ouvertes.fr/hal-02898929/document"
+                        ><en>Abstract</en></lien> et <lien
+                        href="http://dx.doi.org/10.17613/2pwa-0f46"
+                        >diapositives</lien>.</francais>
+                </entree>
+                <entree>
+                    <francais> <titre><en>Editing a 15th century political
+                        treatise using the computer: a back and forth between
+                        meaning and information</en></titre>, <en>Iberian
+                        Connections seminar</en>, Yale University, 12 novembre
+                        2019. <lien
+                        href="https://iberian-connections.yale.edu/articles/editing-a-xvth-century-political-treatise-using-the-computer/"
+                        >Lien</lien>.</francais>
+                </entree>
+                <entree>
+                    <francais> <titre type="communication">Du concept au récit:
+                        théorie politique et <es>enxiemplo</es> dans le
+                        <titre><es>Regimiento de los prínçipes</es></titre>
+                        (III, 3)</titre>. Colloque <cit>Theorica 7:
+                        Politia</cit>, ÉNS de Lyon, Lyon, 6 juin 2019. </francais>
+                    <anglais><titre>Du concept au récit: théorie politique et
+                        <es>enxiemplo</es> dans le <titre>Regimiento de los
+                        prínçipes</titre> (III, 3)</titre>. Theorica 7: Politia
+                        seminar, Lyon, 6 june 2019.</anglais>
+                </entree>
+                <entree>
+                    <francais><titre>Construire l'édition numérique d'une
+                        tradition textuelle complexe: propositions pour le
+                        <titre type="livre">Regimiento de los
+                        prínçipes</titre></titre>. Atelier IRPALL <cit>La
+                        fabrique du texte</cit>, <lieu>Toulouse</lieu>, 22
+                        février 2019.</francais>
+                    <anglais><titre>Construire l'édition numérique d'une
+                        tradition textuelle complexe: propositions pour le
+                        <titre>Regimiento de los prínçipes</titre></titre>.
+                        IRPALL workshop <cit>La fabrique du texte</cit>,
+                        <lieu>Toulouse</lieu>, 22 february 2019.</anglais>
+                </entree>
+            </communications>
+        </publications>
+    </main>
+</cv>
